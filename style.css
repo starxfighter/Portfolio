@@ -1,0 +1,108 @@
+/*Style Sheet*/
+#wrapper{
+    background-color: rgb(94, 12, 94);
+    width: 950px;
+    /* height: 1280px; */
+    margin: 0px auto;
+    padding: 20px;
+}
+#header{
+    background-color: grey;
+    background-blend-mode: hue;
+    margin: 0px auto;
+    padding: 20px;
+    display: block;
+}
+#header h1{
+    font-family: "Comic Sans MS", Times, serif;
+    display: inline-block;
+    width: 300px;
+}
+#header h3{
+    font-size: 24pt;
+    float: right;
+    width: 500px;
+}
+#photo{
+    width: 450px;
+    height: 450px;
+    display: inline-block;
+    background-color: grey;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-bottom:10px;
+    margin-right: 10px;
+    padding: 2px;
+}
+.pic{
+    width:430px;
+    height: 430px;
+    display: block;
+    margin:10px;
+}
+#bio{
+    width:450px;
+    Height:450px;
+    display: inline-block;
+    background-color: grey;
+    margin: 10px;
+    padding: 2px;
+    vertical-align: top;
+}
+h4{
+    color: white;
+    font-size: 24pt;
+    text-align: left; 
+    vertical-align: middle;
+    padding-top: 1px;
+    padding-left: 10px;
+    display: inline-block;
+    height: 30px;
+    margin: 10px;
+}
+#bioinfo{
+    background-color: white;
+    height: 400px;
+}
+p{
+    font-size: 14pt;
+    padding: 10px;
+}
+#bioinfo a{
+    padding: 10px;
+    font-size: 18pt;
+}
+#boxes{
+    width: 295px;
+    height: 488px;
+    display: inline-block;
+    background-color: grey;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-bottom:10px;
+    margin-right: 10px;
+    padding: 2px;    
+}
+#lamode{
+    background-color: white;
+    width: 295px;
+    height: 170px;
+    margin: 0px;
+}
+#lamodeinfo{
+    background-color: white;
+    height: 250px;
+    margin: 0px;
+}
+#fboxes{
+    width: 295px;
+    height: 488px;
+    display: inline-block;
+    background-color: grey;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-bottom:10px;
+    margin-right: 10px;
+    padding: 2px;   
+    vertical-align: top;    
+}
